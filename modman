@@ -1,1 +1,5 @@
-app                             app
+app/code/community/Keyup/MassShipment app/code/community/Keyup/MassShipment
+app/etc/modules/Keyup_MassShipment.xml app/etc/modules/Keyup_MassShipment.xml
+app/locale/en_US/Keyup_MassShipment.csv
+app/locale/de_DE/Keyup_MassShipment.csv
+app/locale/cs_CZ/Keyup_MassShipment.csv
